@@ -1,0 +1,3740 @@
+[
+  {
+    "id": 8356,
+    "name": "Secret Priest Gauntlets (+9)",
+    "name_clean": "secret priest gauntlets",
+    "class": "Priest",
+    "category": "Normal",
+    "features": [
+      "Weight : 4.9 Max Durability : 18937",
+      "Defense Ability : 75",
+      "Health Bonus : 19",
+      "Required Intelligence: 176",
+      "Required Strength: 102",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Priest Gauntlets",
+        "src": "/images/icon-349.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3186
+      }
+    ]
+  },
+  {
+    "id": 2808,
+    "name": "String of Skulls (+0)",
+    "name_clean": "string of skulls",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 10",
+      "Increase Attack Power by 50%",
+      "Defense Ability (Dagger) : 5",
+      "Defense Ability (Club) : 5",
+      "Defense Ability (Spear) : 5",
+      "Strength Bonus : 5",
+      "Health Bonus : 5",
+      "Resistance to Glacier: 30"
+    ],
+    "images": [
+      {
+        "alt_text": "String of Skulls",
+        "src": "/images/icon-206.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2360
+      }
+    ]
+  },
+  {
+    "id": 11298,
+    "name": "Hepa's Bone Cleaver (+9)",
+    "name_clean": "hepa's bone cleaver",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 173",
+      "Effective Range : 1.5",
+      "Weight : 12 Max Durability : 14000",
+      "Glacier Damage : 86",
+      "Required Strength: 188"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Bone Cleaver",
+        "src": "/images/icon-107.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2104
+      }
+    ]
+  },
+  {
+    "id": 5728,
+    "name": "Exceptional Totemic Spear (+4)",
+    "name_clean": "exceptional totemic spear",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 96",
+      "Effective Range : 2",
+      "Weight : 6.5 Max Durability : 10000",
+      "Poison Damage : 40",
+      "Required Strength: 190"
+    ],
+    "images": [
+      {
+        "alt_text": "Exceptional Totemic Spear",
+        "src": "/images/icon-54.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1764
+      }
+    ]
+  },
+  {
+    "id": 3015,
+    "name": "Totemic Club (+6)",
+    "name_clean": "totemic club",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 170",
+      "Effective Range : 1.5",
+      "Weight : 14 Max Durability : 17000",
+      "Lighting Damage : 81",
+      "Required Strength: 178"
+    ],
+    "images": [
+      {
+        "alt_text": "Totemic Club",
+        "src": "/images/icon-245.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2269
+      }
+    ]
+  },
+  {
+    "id": 12777,
+    "name": "Draki Legion Priest Shoes (+2)",
+    "name_clean": "draki legion priest shoes",
+    "class": "Priest",
+    "category": "Normal",
+    "features": [
+      "Weight : 4.9 Max Durability : 11937",
+      "Defense Ability : 50",
+      "Health Bonus : 2",
+      "Required Intelligence: 166",
+      "Required Strength: 90"
+    ],
+    "description": "Full set has set bonus: 5% damage to monsters decrease. Nobody knows if it is debuff or just wrongly labeled.",
+    "images": [
+      {
+        "alt_text": "Draki Legion Priest Shoes",
+        "src": "/images/icon-150.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2748
+      }
+    ]
+  },
+  {
+    "id": 8615,
+    "name": "Secret Mage Robe (+10)",
+    "name_clean": "secret mage robe",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 9 Max Durability : 14812",
+      "Defense Ability : 134",
+      "Health Bonus : 18",
+      "Required Intelligence: 160",
+      "Required Magic Power: 120",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Mage Robe",
+        "src": "/images/icon-39.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3703
+      }
+    ]
+  },
+  {
+    "id": 8015,
+    "name": "Secret Warrior Boots (+9)",
+    "name_clean": "secret warrior boots",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Weight : 7.2 Max Durability : 23625",
+      "Defense Ability : 87",
+      "Strength Bonus : 19",
+      "Required Strength: 180",
+      "Required Health: 88",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Warrior Boots",
+        "src": "/images/icon-320.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3139
+      }
+    ]
+  },
+  {
+    "id": 8958,
+    "name": "Holy Knight Mage Boots (+12)",
+    "name_clean": "holy knight mage boots",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 4.6 Max Durability : 17312",
+      "Defense Ability : 96",
+      "Health Bonus : 19",
+      "Required Intelligence: 148",
+      "Required Magic Power: 136",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Mage Boots",
+        "src": "/images/icon-189.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3046
+      }
+    ]
+  },
+  {
+    "id": 3442,
+    "name": "Lobo Pendant (+5)",
+    "name_clean": "lobo pendant",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 40",
+      "MP Bonus : 175 HP Bonus : 175"
+    ],
+    "images": [
+      {
+        "alt_text": "Lobo Pendant",
+        "src": "/images/icon-6.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2748
+      }
+    ]
+  },
+  {
+    "id": 6848,
+    "name": "Dragon Scale Armor Top (+1)",
+    "name_clean": "dragon scale armor top",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Weight : 18 Max Durability : 15625",
+      "Defense Ability : 149",
+      "Strength Bonus : 2",
+      "Required Strength: 176",
+      "Required Health: 94"
+    ],
+    "images": [
+      {
+        "alt_text": "Dragon Scale Armor Top",
+        "src": "/images/icon-115.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4176
+      }
+    ]
+  },
+  {
+    "id": 6694,
+    "name": "Crystal Helmet (+1)",
+    "name_clean": "crystal helmet",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 5.4 Max Durability : 5000",
+      "Defense Ability : 34",
+      "Health Bonus : 2",
+      "Required Intelligence: 136",
+      "Required Magic Power: 83"
+    ],
+    "images": [
+      {
+        "alt_text": "Crystal Helmet",
+        "src": "/images/icon-182.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3247
+      }
+    ]
+  },
+  {
+    "id": 14161,
+    "name": "Ruler of the Legend - Phoenix (+4)",
+    "name_clean": "ruler of the legend - phoenix",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 116",
+      "Effective Range : 40",
+      "Weight : 4 Max Durability : 11000",
+      "Flame Damage: 40",
+      "Required Dexterity: 154",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Ruler of the Legend - Phoenix",
+        "src": "/images/icon-288.png",
+        "width": 44,
+        "height": 44,
+        "file_size": 6428
+      }
+    ]
+  },
+  {
+    "id": 6292,
+    "name": "Hepa's Priest Impact (+2)",
+    "name_clean": "hepa's priest impact",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 107",
+      "Effective Range : 1",
+      "Weight : 6 Max Durability : 16000",
+      "Lighting Damage : 72",
+      "Required Intelligence: 188",
+      "Required Strength: 119"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Priest Impact",
+        "src": "/images/icon-270.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2589
+      }
+    ]
+  },
+  {
+    "id": 11136,
+    "name": "Hepa's Glave (+20)",
+    "name_clean": "hepa's glave",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 227",
+      "Effective Range : 2",
+      "Weight : 15 Max Durability : 16000",
+      "Poison Damage : 99",
+      "Required Strength: 222"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Glave",
+        "src": "/images/icon-209.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2265
+      }
+    ]
+  },
+  {
+    "id": 8500,
+    "name": "Secret Mage Boots (+19)",
+    "name_clean": "secret mage boots",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 3.6 Max Durability : 15812",
+      "Defense Ability : 72",
+      "Health Bonus : 23",
+      "Required Intelligence: 148",
+      "Required Magic Power: 116",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Mage Boots",
+        "src": "/images/icon-357.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2740
+      }
+    ]
+  },
+  {
+    "id": 6903,
+    "name": "Mythril Boots (+15)",
+    "name_clean": "mythril boots",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 4.9 Max Durability : 18937",
+      "Defense Ability : 74",
+      "Dexterity Bonus : 21",
+      "Required Dexterity: 180",
+      "Required Health: 88"
+    ],
+    "images": [
+      {
+        "alt_text": "Mythril Boots",
+        "src": "/images/icon-52.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3385
+      }
+    ]
+  },
+  {
+    "id": 13358,
+    "name": "Ice Garges Staff (+9)",
+    "name_clean": "ice garges staff",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 149",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 14500",
+      "Glacier Damage : 69",
+      "Lighting Damage : 49",
+      "Intelligence Bonus : 27",
+      "Resistance to Glacier: 37",
+      "Required Magic Power: 143",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: If enemy is healed he loses 2k HP instead  This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Ice Garges Staff",
+        "src": "/images/icon-191.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4455
+      }
+    ]
+  },
+  {
+    "id": 7235,
+    "name": "Ron's Gloves (+6)",
+    "name_clean": "ron's gloves",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 3.6 Max Durability : 14812",
+      "Defense Ability : 55",
+      "Health Bonus : 15",
+      "Required Intelligence: 144",
+      "Required Magic Power: 112"
+    ],
+    "images": [
+      {
+        "alt_text": "Ron's Gloves",
+        "src": "/images/icon-299.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3223
+      }
+    ]
+  },
+  {
+    "id": 2681,
+    "name": "Weak Dwarf Baal (+5)",
+    "name_clean": "weak dwarf baal",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 189",
+      "Effective Range : 2",
+      "Weight : 80 Max Durability : 19500",
+      "Flame Damage: 165",
+      "Health Bonus : 8",
+      "Required Strength: 217",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Remove enemy's AC buff and decreases defense by 10% and makes him bigger like he used Bezoar",
+    "images": [
+      {
+        "alt_text": "Weak Dwarf Baal",
+        "src": "/images/icon-343.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2851
+      }
+    ]
+  },
+  {
+    "id": 11794,
+    "name": "Rosetta Priest Top (+6)",
+    "name_clean": "rosetta priest top",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Weight : 12.9 Max Durability : 19437",
+      "Defense Ability : 166",
+      "Health Bonus : 15",
+      "Required Intelligence: 190",
+      "Required Strength: 108",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Priest Top",
+        "src": "/images/icon-347.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3414
+      }
+    ]
+  },
+  {
+    "id": 11305,
+    "name": "Hepa's Bone Cleaver (+16)",
+    "name_clean": "hepa's bone cleaver",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 194",
+      "Effective Range : 1.5",
+      "Weight : 12 Max Durability : 15000",
+      "Glacier Damage : 95",
+      "Required Strength: 192"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Bone Cleaver",
+        "src": "/images/icon-107.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2104
+      }
+    ]
+  },
+  {
+    "id": 8198,
+    "name": "Secret Assassin Gauntlets (+6)",
+    "name_clean": "secret assassin gauntlets",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Weight : 4.9 Max Durability : 15937",
+      "Defense Ability : 52",
+      "Dexterity Bonus : 10",
+      "Required Dexterity: 170",
+      "Required Health: 86",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Assassin Gauntlets",
+        "src": "/images/icon-171.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3485
+      }
+    ]
+  },
+  {
+    "id": 9846,
+    "name": "Draki's Pendant of Dexterity S.C.D",
+    "name_clean": "draki's pendant of dexterity s.c.d",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 3",
+      "Defense Ability (Jamadar) : 3",
+      "Defense Ability (Sword) : 3",
+      "Defense Ability (Dagger) : 3",
+      "Defense Ability (Club) : 3",
+      "Defense Ability (Axe) : 3",
+      "Defense Ability (Spear) : 3",
+      "Dexterity Bonus : 12",
+      "Health Bonus : 30"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Dexterity S.C.D",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 9133,
+    "name": "Holy Knight Priest Gauntlets (+1)",
+    "name_clean": "holy knight priest gauntlets",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Weight : 5.8 Max Durability : 18437",
+      "Defense Ability : 92",
+      "Health Bonus : 12",
+      "Required Intelligence: 172",
+      "Required Strength: 98",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Priest Gauntlets",
+        "src": "/images/icon-342.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3722
+      }
+    ]
+  },
+  {
+    "id": 4514,
+    "name": "Book of wisdom (Air) (+1)",
+    "name_clean": "book of wisdom (air)",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 108",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 5000",
+      "Glacier Damage : 16",
+      "Health Bonus : 1",
+      "Resistance to Glacier: 1",
+      "Required Intelligence: 102",
+      "Required Magic Power: 102",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Book of wisdom (Air)",
+        "src": "/images/icon-76.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2267
+      }
+    ]
+  },
+  {
+    "id": 12998,
+    "name": "Fire Dragon Saddle (+4)",
+    "name_clean": "fire dragon saddle",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 115",
+      "Effective Range : 1",
+      "Weight : 3 Max Durability : 11000",
+      "Defense Ability : 14",
+      "Flame Damage: 40",
+      "Required Intelligence: 160",
+      "Required Magic Power: 122",
+      "Required Level: 80"
+    ],
+    "description": "This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Fire Dragon Saddle",
+        "src": "/images/icon-104.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4289
+      }
+    ]
+  },
+  {
+    "id": 1984,
+    "name": "Krowaz Warrior Helmet (+11)",
+    "name_clean": "krowaz warrior helmet",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Weight : 10.1 Max Durability : 25125",
+      "Defense Ability : 150",
+      "Strength Bonus : 19",
+      "Required Strength: 204",
+      "Required Health: 90",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Krowaz Warrior Helmet",
+        "src": "/images/icon-282.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2248
+      }
+    ]
+  },
+  {
+    "id": 2911,
+    "name": "Windforce on Severe Diet (+5)",
+    "name_clean": "windforce on severe diet",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 115",
+      "Effective Range : 40",
+      "Weight : 4 Max Durability : 14000",
+      "Flame Damage: 65",
+      "Strength Bonus : 6",
+      "Dexterity Bonus : 13",
+      "Required Dexterity: 157",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Enemy cannot use potions",
+    "images": [
+      {
+        "alt_text": "Windforce on Severe Diet",
+        "src": "/images/icon-306.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2117
+      }
+    ]
+  },
+  {
+    "id": 7757,
+    "name": "Dark Knight Jamadar (+6)",
+    "name_clean": "dark knight jamadar",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 99",
+      "Effective Range : 1.5",
+      "Weight : 2 Max Durability : 15000",
+      "Poison Damage : 84",
+      "Required Dexterity: 200",
+      "Required Level: 80"
+    ],
+    "description": "Curse effect from +7: Inficts venom damage on enemy for 15 seconds",
+    "images": [
+      {
+        "alt_text": "Dark Knight Jamadar",
+        "src": "/images/icon-31.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 6228
+      }
+    ]
+  },
+  {
+    "id": 6181,
+    "name": "Hepa's Totemic Spear (+15)",
+    "name_clean": "hepa's totemic spear",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 143",
+      "Effective Range : 2",
+      "Weight : 6.5 Max Durability : 15000",
+      "Poison Damage : 94",
+      "Required Strength: 210"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Totemic Spear",
+        "src": "/images/icon-54.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1764
+      }
+    ]
+  },
+  {
+    "id": 12545,
+    "name": "Draki Legion Rogue Helm (+8)",
+    "name_clean": "draki legion rogue helm",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 7.5 Max Durability : 17937",
+      "Defense Ability : 95",
+      "Dexterity Bonus : 16",
+      "Required Dexterity: 182",
+      "Required Health: 90"
+    ],
+    "description": "Full set has set bonus: 5% damage to monsters decrease. Nobody knows if it is debuff or just wrongly labeled.",
+    "images": [
+      {
+        "alt_text": "Draki Legion Rogue Helm",
+        "src": "/images/icon-72.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3436
+      }
+    ]
+  },
+  {
+    "id": 14042,
+    "name": "Akara's Elemental Pendant (+5)",
+    "name_clean": "akara's elemental pendant",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 60",
+      "Intelligence Bonus : 18",
+      "Magic Power Bonus : 19",
+      "MP Bonus : 350 HP Bonus : 525 Health Bonus : 36",
+      "Resistance to Poison: 45",
+      "Resistance to Curse: 45"
+    ],
+    "images": [
+      {
+        "alt_text": "Akara's Elemental Pendant",
+        "src": "/images/icon-230.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2122
+      }
+    ]
+  },
+  {
+    "id": 9254,
+    "name": "Holy Knight Portu Pauldron (+8)",
+    "name_clean": "holy knight portu pauldron",
+    "class": "Kurian",
+    "category": "Normal",
+    "features": [
+      "Weight : 16.1 Max Durability : 24125",
+      "Defense Ability : 211",
+      "Strength Bonus : 15",
+      "Required Strength: 166",
+      "Required Magic Power: 107",
+      "Required Health: 94",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Portu Pauldron",
+        "src": "/images/icon-119.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3317
+      }
+    ]
+  },
+  {
+    "id": 10176,
+    "name": "Draki's Pendant of Magic S.B.S",
+    "name_clean": "draki's pendant of magic s.b.s",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 6",
+      "Defense Ability (Jamadar) : 6",
+      "Defense Ability (Sword) : 6",
+      "Defense Ability (Dagger) : 6",
+      "Defense Ability (Club) : 6",
+      "Defense Ability (Axe) : 6",
+      "Defense Ability (Spear) : 6",
+      "Magic Power Bonus : 12",
+      "Health Bonus : 30"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Magic S.B.S",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 12886,
+    "name": "Draki Legion Priest Leggings (+8)",
+    "name_clean": "draki legion priest leggings",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Weight : 10 Max Durability : 17937",
+      "Defense Ability : 136",
+      "Health Bonus : 16",
+      "Required Intelligence: 186",
+      "Required Strength: 106"
+    ],
+    "description": "Full set has set bonus: 5% damage to monsters decrease. Nobody knows if it is debuff or just wrongly labeled.",
+    "images": [
+      {
+        "alt_text": "Draki Legion Priest Leggings",
+        "src": "/images/icon-293.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3398
+      }
+    ]
+  },
+  {
+    "id": 3448,
+    "name": "Lupus Pendant (+5)",
+    "name_clean": "lupus pendant",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 40",
+      "Strength Bonus : 20",
+      "Resistance to Lighting: 50"
+    ],
+    "images": [
+      {
+        "alt_text": "Lupus Pendant",
+        "src": "/images/icon-6.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2748
+      }
+    ]
+  },
+  {
+    "id": 9941,
+    "name": "Draki's Pendant of Strength S.A.B",
+    "name_clean": "draki's pendant of strength s.a.b",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 9",
+      "Defense Ability (Jamadar) : 9",
+      "Defense Ability (Sword) : 9",
+      "Defense Ability (Dagger) : 9",
+      "Defense Ability (Club) : 9",
+      "Defense Ability (Axe) : 9",
+      "Defense Ability (Spear) : 9",
+      "Strength Bonus : 12",
+      "Health Bonus : 30"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Strength S.A.B",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 14349,
+    "name": "Old Priest Earring (+0)",
+    "name_clean": "old priest earring",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 15",
+      "MP Bonus : 40 HP Bonus : 50",
+      "Resistance to Flame: 10",
+      "Resistance to Glacier: 10",
+      "Resistance to Lighting: 10",
+      "Resistance to Poison: 10",
+      "Resistance to Magic: 10",
+      "Resistance to Curse: 10"
+    ],
+    "images": [
+      {
+        "alt_text": "Old Priest Earring",
+        "src": "/images/icon-232.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2517
+      }
+    ]
+  },
+  {
+    "id": 10501,
+    "name": "Draki's Pendant of Philosopher S.S.S",
+    "name_clean": "draki's pendant of philosopher s.s.s",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 12",
+      "Defense Ability (Jamadar) : 12",
+      "Defense Ability (Sword) : 12",
+      "Defense Ability (Dagger) : 12",
+      "Defense Ability (Club) : 12",
+      "Defense Ability (Axe) : 12",
+      "Defense Ability (Spear) : 12",
+      "Intelligence Bonus : 14",
+      "Magic Power Bonus : 12"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Philosopher S.S.S",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 13402,
+    "name": "Garges Two-Handed Sword (+1)",
+    "name_clean": "garges two-handed sword",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 141",
+      "Effective Range : 2",
+      "Weight : 10 Max Durability : 16000",
+      "Lighting Damage : 40",
+      "Strength Bonus : 1",
+      "Required Strength: 179",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Enemy cannot use any skill  This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Garges Two-Handed Sword",
+        "src": "/images/icon-69.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4804
+      }
+    ]
+  },
+  {
+    "id": 9378,
+    "name": "Holy Knight Portu Pads (+8)",
+    "name_clean": "holy knight portu pads",
+    "class": "Kurian",
+    "category": "Normal",
+    "features": [
+      "Weight : 10.1 Max Durability : 24125",
+      "Defense Ability : 181",
+      "Strength Bonus : 15",
+      "Required Strength: 163",
+      "Required Magic Power: 106",
+      "Required Health: 92",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Portu Pads",
+        "src": "/images/icon-309.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3285
+      }
+    ]
+  },
+  {
+    "id": 5906,
+    "name": "Hepa's Shard (+17)",
+    "name_clean": "hepa's shard",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 131",
+      "Effective Range : 1",
+      "Weight : 2 Max Durability : 14000",
+      "Poison Damage : 96",
+      "Required Dexterity: 204"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Shard",
+        "src": "/images/icon-130.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1792
+      }
+    ]
+  },
+  {
+    "id": 2502,
+    "name": "Mage Gloves (+9)",
+    "name_clean": "mage gloves",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 0.8 Max Durability : 10000",
+      "Defense Ability : 31",
+      "HP Bonus : 19",
+      "Required Intelligence: 46",
+      "Required Magic Power: 59"
+    ],
+    "images": [
+      {
+        "alt_text": "Mage Gloves",
+        "src": "/images/icon-323.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3020
+      }
+    ]
+  },
+  {
+    "id": 9025,
+    "name": "Holy Knight Mage Helmet (+17)",
+    "name_clean": "holy knight mage helmet",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 6.4 Max Durability : 17312",
+      "Defense Ability : 132",
+      "Health Bonus : 22",
+      "Required Intelligence: 152",
+      "Required Magic Power: 138",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Mage Helmet",
+        "src": "/images/icon-266.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3796
+      }
+    ]
+  },
+  {
+    "id": 2627,
+    "name": "Javana Axe 2H (+13)",
+    "name_clean": "javana axe 2h",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 176",
+      "Effective Range : 1.5",
+      "Weight : 12 Max Durability : 15000",
+      "Glacier Damage : 122",
+      "MP Bonus : 360 Health Bonus : 13",
+      "Resistance to Flame: 21",
+      "Resistance to Glacier: 21",
+      "Resistance to Lighting: 21",
+      "Required Strength: 150"
+    ],
+    "images": [
+      {
+        "alt_text": "Javana Axe 2H",
+        "src": "/images/icon-33.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3230
+      }
+    ]
+  },
+  {
+    "id": 2639,
+    "name": "Undefeatable Baal (+4)",
+    "name_clean": "undefeatable baal",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 157",
+      "Effective Range : 2",
+      "Weight : 80 Max Durability : 17500",
+      "Flame Damage: 105",
+      "Health Bonus : 4",
+      "Required Strength: 201",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Enemy cannot be teleported away",
+    "images": [
+      {
+        "alt_text": "Undefeatable Baal",
+        "src": "/images/icon-343.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2851
+      }
+    ]
+  },
+  {
+    "id": 10840,
+    "name": "Helmet of the Wise King (quest)",
+    "name_clean": "helmet of the wise king (quest)",
+    "class": "Priest",
+    "category": "Normal",
+    "features": [
+      "Weight : 7.5 Defense Ability : 92",
+      "Intelligence Bonus : 10",
+      "MP Bonus : 20 HP Bonus : 30",
+      "Resistance to Flame: 10",
+      "Required Intelligence: 180",
+      "Required Strength: 102",
+      "Required Level: 70"
+    ],
+    "description": "Given by quest '[Lemegeton] Count of a Fool' (part 12 in series 'Lemegeton') at level 71",
+    "images": [
+      {
+        "alt_text": "Helmet of the Wise King (quest)",
+        "src": "/images/icon-242.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2563
+      }
+    ]
+  },
+  {
+    "id": 4293,
+    "name": "Undefeatable Faun (+18)",
+    "name_clean": "undefeatable faun",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 169",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 15000",
+      "Glacier Damage : 53",
+      "Lighting Damage : 73",
+      "Intelligence Bonus : 29",
+      "Resistance to Lighting: 39",
+      "Required Magic Power: 147",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Enemy cannot be teleported away",
+    "images": [
+      {
+        "alt_text": "Undefeatable Faun",
+        "src": "/images/icon-228.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1719
+      }
+    ]
+  },
+  {
+    "id": 1262,
+    "name": "Rogue Chitin Shell Boots (+2)",
+    "name_clean": "rogue chitin shell boots",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 4.9 Max Durability : 16937",
+      "Defense Ability : 56",
+      "Dexterity Bonus : 12",
+      "Required Dexterity: 176",
+      "Required Health: 88"
+    ],
+    "images": [
+      {
+        "alt_text": "Rogue Chitin Shell Boots",
+        "src": "/images/icon-170.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2605
+      }
+    ]
+  },
+  {
+    "id": 7922,
+    "name": "Lighting Dark Knight Staff (+1)",
+    "name_clean": "lighting dark knight staff",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 133",
+      "Effective Range : 1",
+      "Weight : 3 Max Durability : 14000",
+      "Defense Ability : 26",
+      "Lighting Damage : 70",
+      "Required Intelligence: 160",
+      "Required Magic Power: 134",
+      "Required Level: 80"
+    ],
+    "description": "Curse effect from +7: Defense is increased by 300 and you get healed by 2000 HP when attacked",
+    "images": [
+      {
+        "alt_text": "Lighting Dark Knight Staff",
+        "src": "/images/icon-137.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 6232
+      }
+    ]
+  },
+  {
+    "id": 1958,
+    "name": "Krowaz Warrior Gauntlets (+16)",
+    "name_clean": "krowaz warrior gauntlets",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Weight : 7.2 Max Durability : 25125",
+      "Defense Ability : 109",
+      "Strength Bonus : 21",
+      "Required Strength: 196",
+      "Required Health: 86",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Krowaz Warrior Gauntlets",
+        "src": "/images/icon-183.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2387
+      }
+    ]
+  },
+  {
+    "id": 11532,
+    "name": "Rosetta Mage Gauntlet (+2)",
+    "name_clean": "rosetta mage gauntlet",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 4.6 Max Durability : 10312",
+      "Defense Ability : 48",
+      "Health Bonus : 2",
+      "Required Intelligence: 144",
+      "Required Magic Power: 120",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Mage Gauntlet",
+        "src": "/images/icon-109.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2932
+      }
+    ]
+  },
+  {
+    "id": 5844,
+    "name": "Exceptional Elixir Staff (+17)",
+    "name_clean": "exceptional elixir staff",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 147",
+      "Effective Range : 1",
+      "Weight : 3 Max Durability : 13000",
+      "Flame Damage: 76",
+      "Required Intelligence: 158",
+      "Required Magic Power: 136"
+    ],
+    "images": [
+      {
+        "alt_text": "Exceptional Elixir Staff",
+        "src": "/images/icon-18.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2302
+      }
+    ]
+  },
+  {
+    "id": 6498,
+    "name": "Avedon (+6)",
+    "name_clean": "avedon",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 164",
+      "Effective Range : 1.5",
+      "Weight : 5 Max Durability : 14500",
+      "Glacier Damage : 70",
+      "MP Bonus : 175 HP Bonus : 175",
+      "Required Strength: 208",
+      "Required Health: 80"
+    ],
+    "images": [
+      {
+        "alt_text": "Avedon",
+        "src": "/images/icon-33.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3230
+      }
+    ]
+  },
+  {
+    "id": 5051,
+    "name": "Slayer (+1)",
+    "name_clean": "slayer",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 92",
+      "Effective Range : 1",
+      "Weight : 7 Max Durability : 14000",
+      "Flame Damage: 70",
+      "Required Strength: 190"
+    ],
+    "images": [
+      {
+        "alt_text": "Slayer",
+        "src": "/images/icon-217.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1790
+      }
+    ]
+  },
+  {
+    "id": 11074,
+    "name": "Hepa's Durandal (+19)",
+    "name_clean": "hepa's durandal",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 209",
+      "Effective Range : 1.5",
+      "Weight : 10 Max Durability : 13000",
+      "Flame Damage: 98",
+      "Required Strength: 198"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Durandal",
+        "src": "/images/icon-265.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2139
+      }
+    ]
+  },
+  {
+    "id": 14128,
+    "name": "Akara's Elf Metal Earring (+1)",
+    "name_clean": "akara's elf metal earring",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 24",
+      "Dexterity Bonus : 8",
+      "Health Bonus : 7"
+    ],
+    "images": [
+      {
+        "alt_text": "Akara's Elf Metal Earring",
+        "src": "/images/icon-331.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2373
+      }
+    ]
+  },
+  {
+    "id": 9897,
+    "name": "Draki's Pendant of Strength A.C",
+    "name_clean": "draki's pendant of strength a.c",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 3",
+      "Defense Ability (Jamadar) : 3",
+      "Defense Ability (Sword) : 3",
+      "Defense Ability (Dagger) : 3",
+      "Defense Ability (Club) : 3",
+      "Defense Ability (Axe) : 3",
+      "Defense Ability (Spear) : 3",
+      "Strength Bonus : 9",
+      "Health Bonus : 25"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Strength A.C",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "name": "Chitin Armor Pads (+13)",
+    "name_clean": "chitin armor pads",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Weight : 14.4 Max Durability : 20500",
+      "Defense Ability : 160",
+      "Strength Bonus : 20",
+      "Required Strength: 172",
+      "Required Health: 88"
+    ],
+    "images": [
+      {
+        "alt_text": "Chitin Armor Pads",
+        "src": "/images/icon-84.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3518
+      }
+    ]
+  },
+  {
+    "id": 2035,
+    "name": "Krowaz Warrior Upper Garment (+10)",
+    "name_clean": "krowaz warrior upper garment",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Weight : 16.1 Max Durability : 26125",
+      "Defense Ability : 257",
+      "Strength Bonus : 24",
+      "Required Strength: 214",
+      "Required Health: 94",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Krowaz Warrior Upper Garment",
+        "src": "/images/icon-302.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3290
+      }
+    ]
+  },
+  {
+    "id": 10074,
+    "name": "Draki's Pendant of Magic C.B.A",
+    "name_clean": "draki's pendant of magic c.b.a",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 6",
+      "Defense Ability (Jamadar) : 6",
+      "Defense Ability (Sword) : 6",
+      "Defense Ability (Dagger) : 6",
+      "Defense Ability (Club) : 6",
+      "Defense Ability (Axe) : 6",
+      "Defense Ability (Spear) : 6",
+      "Magic Power Bonus : 3",
+      "Health Bonus : 15"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Magic C.B.A",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 13283,
+    "name": "Garges Scythe (+6)",
+    "name_clean": "garges scythe",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 114",
+      "Effective Range : 2",
+      "Weight : 15 Max Durability : 15500",
+      "Glacier Damage : 70",
+      "Dexterity Bonus : 20",
+      "Health Bonus : 9",
+      "Required Strength: 199",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Enemy cannot be teleported away  This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Garges Scythe",
+        "src": "/images/icon-202.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3734
+      }
+    ]
+  },
+  {
+    "id": 4516,
+    "name": "Book of wisdom (Air) (+3)",
+    "name_clean": "book of wisdom (air)",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 112",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 7000",
+      "Glacier Damage : 36",
+      "Health Bonus : 4",
+      "Resistance to Glacier: 5",
+      "Required Intelligence: 102",
+      "Required Magic Power: 110",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Book of wisdom (Air)",
+        "src": "/images/icon-76.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2267
+      }
+    ]
+  },
+  {
+    "id": 9003,
+    "name": "Holy Knight Mage Helmet (+5)",
+    "name_clean": "holy knight mage helmet",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 6.4 Max Durability : 13312",
+      "Defense Ability : 98",
+      "Health Bonus : 8",
+      "Required Intelligence: 152",
+      "Required Magic Power: 130",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Mage Helmet",
+        "src": "/images/icon-266.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3796
+      }
+    ]
+  },
+  {
+    "id": 7062,
+    "name": "Boots of Trial (+19)",
+    "name_clean": "boots of trial",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Weight : 4.9 Max Durability : 18937",
+      "Defense Ability : 84",
+      "Health Bonus : 23",
+      "Required Intelligence: 180",
+      "Required Strength: 104"
+    ],
+    "images": [
+      {
+        "alt_text": "Boots of Trial",
+        "src": "/images/icon-332.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3393
+      }
+    ]
+  },
+  {
+    "id": 10187,
+    "name": "Draki's Pendant of Magic A.S.S",
+    "name_clean": "draki's pendant of magic a.s.s",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 12",
+      "Defense Ability (Jamadar) : 12",
+      "Defense Ability (Sword) : 12",
+      "Defense Ability (Dagger) : 12",
+      "Defense Ability (Club) : 12",
+      "Defense Ability (Axe) : 12",
+      "Defense Ability (Spear) : 12",
+      "Magic Power Bonus : 9",
+      "Health Bonus : 25"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Magic A.S.S",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 4157,
+    "name": "Glave (+16)",
+    "name_clean": "glave",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 210",
+      "Effective Range : 2",
+      "Weight : 15 Max Durability : 16000",
+      "Poison Damage : 95",
+      "Required Strength: 222"
+    ],
+    "images": [
+      {
+        "alt_text": "Glave",
+        "src": "/images/icon-209.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2265
+      }
+    ]
+  },
+  {
+    "id": 2895,
+    "name": "Weak Dwarf Windforce (+10)",
+    "name_clean": "weak dwarf windforce",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 148",
+      "Effective Range : 40",
+      "Weight : 4 Max Durability : 14000",
+      "Flame Damage: 104",
+      "Strength Bonus : 13",
+      "Dexterity Bonus : 16",
+      "Required Dexterity: 169",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Remove enemy's AC buff and decreases defense by 10% and makes him bigger like he used Bezoar",
+    "images": [
+      {
+        "alt_text": "Weak Dwarf Windforce",
+        "src": "/images/icon-306.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2117
+      }
+    ]
+  },
+  {
+    "id": 13255,
+    "name": "Garges Mace (+9)",
+    "name_clean": "garges mace",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 152",
+      "Effective Range : 1",
+      "Weight : 7 Max Durability : 20000",
+      "Glacier Damage : 120",
+      "Strength Bonus : 16",
+      "MP Bonus : 120",
+      "Resistance to Flame: 40",
+      "Resistance to Glacier: 40",
+      "Resistance to Lighting: 40",
+      "Required Intelligence: 137",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Enemy is blinded  This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Garges Mace",
+        "src": "/images/icon-198.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3979
+      }
+    ]
+  },
+  {
+    "id": 7776,
+    "name": "Dark Knight Jamadar (+15)",
+    "name_clean": "dark knight jamadar",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 126",
+      "Effective Range : 1.5",
+      "Weight : 2 Max Durability : 18000",
+      "Poison Damage : 130",
+      "Required Dexterity: 212",
+      "Required Level: 80"
+    ],
+    "description": "Curse effect from +7: Inficts venom damage on enemy for 15 seconds",
+    "images": [
+      {
+        "alt_text": "Dark Knight Jamadar",
+        "src": "/images/icon-31.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 6228
+      }
+    ]
+  },
+  {
+    "id": 8901,
+    "name": "Holy Knight Assassin Pads (+17)",
+    "name_clean": "holy knight assassin pads",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 9.3 Max Durability : 20437",
+      "Defense Ability : 173",
+      "Dexterity Bonus : 22",
+      "Required Dexterity: 208",
+      "Required Health: 92",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Assassin Pads",
+        "src": "/images/icon-215.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3568
+      }
+    ]
+  },
+  {
+    "id": 14371,
+    "name": "Bardish +10",
+    "name_clean": "bardish +10",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 214",
+      "Effective Range : 2",
+      "Weight : 15 Max Durability : 17000",
+      "Poison Damage : 100",
+      "Required Strength: 214"
+    ],
+    "images": [
+      {
+        "alt_text": "Bardish +10",
+        "src": "/images/1679122277812.png",
+        "width": 85,
+        "height": 83,
+        "file_size": 8995
+      }
+    ]
+  },
+  {
+    "id": 11879,
+    "name": "Rosetta Warrior Helmet (+8)",
+    "name_clean": "rosetta warrior helmet",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Weight : 10.1 Max Durability : 24125",
+      "Defense Ability : 128",
+      "Strength Bonus : 15",
+      "Required Strength: 202",
+      "Required Health: 90",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Warrior Helmet",
+        "src": "/images/icon-1.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2126
+      }
+    ]
+  },
+  {
+    "id": 3822,
+    "name": "Dread Shield (+1)",
+    "name_clean": "dread shield",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Effective Range : 2",
+      "Weight : 25 Max Durability : 18000",
+      "Defense Ability : 245",
+      "Defense Ability (Dagger) : 1",
+      "Defense Ability (Axe) : 1",
+      "Defense Ability (Spear) : 1",
+      "Health Bonus : 1",
+      "Resistance to Flame: 1",
+      "Resistance to Lighting: 1",
+      "Required Strength: 90"
+    ],
+    "images": [
+      {
+        "alt_text": "Dread Shield",
+        "src": "/images/icon-30.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3562
+      }
+    ]
+  },
+  {
+    "id": 6342,
+    "name": "Undefeatable Leonar",
+    "name_clean": "undefeatable leonar",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 96",
+      "Effective Range : 1",
+      "Weight : 7 Max Durability : 15000",
+      "Glacier Damage : 40",
+      "Strength Bonus : 1",
+      "MP Bonus : 40",
+      "Resistance to Flame: 5",
+      "Resistance to Glacier: 5",
+      "Resistance to Lighting: 5",
+      "Required Intelligence: 121",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Enemy cannot be teleported away",
+    "images": [
+      {
+        "alt_text": "Undefeatable Leonar",
+        "src": "/images/icon-53.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2983
+      }
+    ]
+  },
+  {
+    "id": 11209,
+    "name": "Tomahawk (+11)",
+    "name_clean": "tomahawk",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 113",
+      "Effective Range : 1",
+      "Weight : 5 Max Durability : 17000",
+      "Glacier Damage : 90",
+      "Required Strength: 192"
+    ],
+    "images": [
+      {
+        "alt_text": "Tomahawk",
+        "src": "/images/icon-281.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3166
+      }
+    ]
+  },
+  {
+    "id": 8690,
+    "name": "Holy Knight Warrior Gauntlets (+2)",
+    "name_clean": "holy knight warrior gauntlets",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Weight : 7.2 Max Durability : 18125",
+      "Defense Ability : 88",
+      "Strength Bonus : 2",
+      "Required Strength: 182",
+      "Required Health: 86",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Warrior Gauntlets",
+        "src": "/images/icon-124.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3778
+      }
+    ]
+  },
+  {
+    "id": 8202,
+    "name": "Secret Assassin Gauntlets (+10)",
+    "name_clean": "secret assassin gauntlets",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Weight : 4.9 Max Durability : 19937",
+      "Defense Ability : 82",
+      "Dexterity Bonus : 24",
+      "Required Dexterity: 178",
+      "Required Health: 86",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Assassin Gauntlets",
+        "src": "/images/icon-171.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3485
+      }
+    ]
+  },
+  {
+    "id": 14138,
+    "name": "Akara's Agate (Mano) Earring (+5)",
+    "name_clean": "akara's agate (mano) earring",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 60",
+      "Magic Power Bonus : 18",
+      "Health Bonus : 19"
+    ],
+    "images": [
+      {
+        "alt_text": "Akara's Agate (Mano) Earring",
+        "src": "/images/icon-185.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2103
+      }
+    ]
+  },
+  {
+    "id": 9602,
+    "name": "Buju (+21)",
+    "name_clean": "buju",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 244",
+      "Effective Range : 2",
+      "Weight : 15 Max Durability : 20000",
+      "Poison Damage : 100",
+      "Required Strength: 238",
+      "Required Level: 75"
+    ],
+    "description": "This is crafted Buju (weaker one) Do not mix up with selfname Buju (ByNoGame's Buju)",
+    "images": [
+      {
+        "alt_text": "Buju",
+        "src": "/images/icon-219.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4984
+      }
+    ]
+  },
+  {
+    "id": 7964,
+    "name": "Dark Knight Shield (+11)",
+    "name_clean": "dark knight shield",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Effective Range : 2",
+      "Weight : 30 Max Durability : 22000",
+      "Defense Ability : 425",
+      "Defense Ability (Jamadar) : 39",
+      "Defense Ability (Sword) : 39",
+      "Defense Ability (Club) : 39",
+      "Defense Ability (Axe) : 39",
+      "Defense Ability (Spear) : 39",
+      "Required Intelligence: 147",
+      "Required Level: 80"
+    ],
+    "description": "Curse effect from +7: When attacked, reflects damage",
+    "images": [
+      {
+        "alt_text": "Dark Knight Shield",
+        "src": "/images/icon-234.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 6120
+      }
+    ]
+  },
+  {
+    "id": 13087,
+    "name": "Lightning Dragon Saddle (+19)",
+    "name_clean": "lightning dragon saddle",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 162",
+      "Effective Range : 1",
+      "Weight : 3 Max Durability : 16000",
+      "Defense Ability : 37",
+      "Lighting Damage : 98",
+      "Required Intelligence: 160",
+      "Required Magic Power: 142",
+      "Required Level: 80"
+    ],
+    "description": "This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Lightning Dragon Saddle",
+        "src": "/images/icon-104.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4289
+      }
+    ]
+  },
+  {
+    "id": 7710,
+    "name": "Dark Knight Crossbow (+13)",
+    "name_clean": "dark knight crossbow",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 167",
+      "Effective Range : 40",
+      "Weight : 4 Max Durability : 16000",
+      "Lighting Damage : 110",
+      "Required Dexterity: 174",
+      "Required Level: 80"
+    ],
+    "description": "Curse effect from +7: Disables enemy's mobility",
+    "images": [
+      {
+        "alt_text": "Dark Knight Crossbow",
+        "src": "/images/icon-184.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 6104
+      }
+    ]
+  },
+  {
+    "id": 9725,
+    "name": "Ruahue (+20)",
+    "name_clean": "ruahue",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 174",
+      "Effective Range : 1",
+      "Weight : 6 Max Durability : 21000",
+      "Lighting Damage : 99",
+      "Required Intelligence: 142",
+      "Required Level: 75"
+    ],
+    "description": "This is crafted Ruahue (weaker one) Do not mix up with selfname Ruahue (ByNoGame's Ruahue)",
+    "images": [
+      {
+        "alt_text": "Ruahue",
+        "src": "/images/icon-149.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2683
+      }
+    ]
+  },
+  {
+    "id": 11914,
+    "name": "Rosetta Warrior Bottom (+2)",
+    "name_clean": "rosetta warrior bottom",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Weight : 10.1 Max Durability : 23125",
+      "Defense Ability : 159",
+      "Strength Bonus : 12",
+      "Required Strength: 204",
+      "Required Health: 92",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Warrior Bottom",
+        "src": "/images/icon-35.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2886
+      }
+    ]
+  },
+  {
+    "id": 11975,
+    "name": "Syphioric (+10)",
+    "name_clean": "syphioric",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 20",
+      "Effective Range : 2",
+      "Weight : 50 Max Durability : 18500",
+      "Defense Ability : 285",
+      "Defense Ability (Sword) : 30",
+      "Defense Ability (Axe) : 30",
+      "Defense Ability (Spear) : 30",
+      "Strength Bonus : 20",
+      "MP Bonus : 280",
+      "Required Strength: 90",
+      "Required Health: 90"
+    ],
+    "images": [
+      {
+        "alt_text": "Syphioric",
+        "src": "/images/icon-174.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2824
+      }
+    ]
+  },
+  {
+    "id": 6897,
+    "name": "Mythril Boots (+9)",
+    "name_clean": "mythril boots",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 4.9 Max Durability : 17937",
+      "Defense Ability : 65",
+      "Dexterity Bonus : 17",
+      "Required Dexterity: 178",
+      "Required Health: 88"
+    ],
+    "images": [
+      {
+        "alt_text": "Mythril Boots",
+        "src": "/images/icon-52.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3385
+      }
+    ]
+  },
+  {
+    "id": 9966,
+    "name": "Draki's Pendant of Strength S.A.C",
+    "name_clean": "draki's pendant of strength s.a.c",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 9",
+      "Defense Ability (Jamadar) : 9",
+      "Defense Ability (Sword) : 9",
+      "Defense Ability (Dagger) : 9",
+      "Defense Ability (Club) : 9",
+      "Defense Ability (Axe) : 9",
+      "Defense Ability (Spear) : 9",
+      "Strength Bonus : 12",
+      "Health Bonus : 30"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Strength S.A.C",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 1271,
+    "name": "Rogue Chitin Shell Boots (+11)",
+    "name_clean": "rogue chitin shell boots",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 4.9 Max Durability : 18937",
+      "Defense Ability : 69",
+      "Dexterity Bonus : 19",
+      "Required Dexterity: 180",
+      "Required Health: 88"
+    ],
+    "images": [
+      {
+        "alt_text": "Rogue Chitin Shell Boots",
+        "src": "/images/icon-170.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2605
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "name": "Rogue Chitin Armor Pauldron (+8)",
+    "name_clean": "rogue chitin armor pauldron",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 12.6 Max Durability : 15750",
+      "Defense Ability : 135",
+      "Dexterity Bonus : 16",
+      "Required Dexterity: 174",
+      "Required Health: 90"
+    ],
+    "images": [
+      {
+        "alt_text": "Rogue Chitin Armor Pauldron",
+        "src": "/images/icon-147.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3952
+      }
+    ]
+  },
+  {
+    "id": 3647,
+    "name": "Stone Splitter (+2)",
+    "name_clean": "stone splitter",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 92",
+      "Effective Range : 1",
+      "Weight : 7 Max Durability : 15500",
+      "Defense Ability (Club) : 1",
+      "Poison Damage : 41",
+      "Strength Bonus : 1",
+      "Resistance to Flame: 5",
+      "Resistance to Glacier: 5",
+      "Resistance to Lighting: 5",
+      "Required Intelligence: 122",
+      "Required Strength: 86"
+    ],
+    "images": [
+      {
+        "alt_text": "Stone Splitter",
+        "src": "/images/icon-44.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3655
+      }
+    ]
+  },
+  {
+    "id": 2185,
+    "name": "Gigantic Axe 1H (+21)",
+    "name_clean": "gigantic axe 1h",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 121",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 17000",
+      "Lighting Damage : 130",
+      "Dexterity Bonus : 14",
+      "MP Bonus : 200 HP Bonus : 200",
+      "Resistance to Flame: 30",
+      "Resistance to Glacier: 30",
+      "Resistance to Lighting: 30",
+      "Required Strength: 135"
+    ],
+    "images": [
+      {
+        "alt_text": "Gigantic Axe 1H",
+        "src": "/images/icon-155.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2740
+      }
+    ]
+  },
+  {
+    "id": 6404,
+    "name": "Lobo Hammer (+10)",
+    "name_clean": "lobo hammer",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 79",
+      "Effective Range : 1",
+      "Weight : 5 Max Durability : 16000",
+      "Dexterity Bonus : 19",
+      "Intelligence Bonus : 8",
+      "Magic Power Bonus : 17",
+      "HP Bonus : 200 Health Bonus : 8",
+      "Resistance to Lighting: 59",
+      "Required Intelligence: 98",
+      "Required Strength: 71"
+    ],
+    "images": [
+      {
+        "alt_text": "Lobo Hammer",
+        "src": "/images/icon-214.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2388
+      }
+    ]
+  },
+  {
+    "id": 10152,
+    "name": "Draki's Pendant of Magic A.C.D",
+    "name_clean": "draki's pendant of magic a.c.d",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 3",
+      "Defense Ability (Jamadar) : 3",
+      "Defense Ability (Sword) : 3",
+      "Defense Ability (Dagger) : 3",
+      "Defense Ability (Club) : 3",
+      "Defense Ability (Axe) : 3",
+      "Defense Ability (Spear) : 3",
+      "Magic Power Bonus : 9",
+      "Health Bonus : 25"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Magic A.C.D",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 11676,
+    "name": "Rosetta Priest Boots (+12)",
+    "name_clean": "rosetta priest boots",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Weight : 5.8 Max Durability : 20437",
+      "Defense Ability : 86",
+      "Health Bonus : 19",
+      "Required Intelligence: 180",
+      "Required Strength: 104",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Priest Boots",
+        "src": "/images/icon-41.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2746
+      }
+    ]
+  },
+  {
+    "id": 8256,
+    "name": "Secret Assassin Bottom (+2)",
+    "name_clean": "secret assassin bottom",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Weight : 10 Max Durability : 11937",
+      "Defense Ability : 87",
+      "Dexterity Bonus : 2",
+      "Required Dexterity: 174",
+      "Required Health: 92",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Assassin Bottom",
+        "src": "/images/icon-247.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3441
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Crimson Robe (+2)",
+    "name_clean": "crimson robe",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 9 Max Durability : 7250",
+      "Defense Ability : 85",
+      "Health Bonus : 2",
+      "Required Intelligence: 160",
+      "Required Magic Power: 92"
+    ],
+    "images": [
+      {
+        "alt_text": "Crimson Robe",
+        "src": "/images/icon-126.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3237
+      }
+    ]
+  },
+  {
+    "id": 12533,
+    "name": "Draki Legion Rogue Helm (+6)",
+    "name_clean": "draki legion rogue helm",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Weight : 7.5 Max Durability : 15937",
+      "Defense Ability : 78",
+      "Dexterity Bonus : 10",
+      "Required Dexterity: 178",
+      "Required Health: 90"
+    ],
+    "description": "Full set has set bonus: 5% damage to monsters decrease. Nobody knows if it is debuff or just wrongly labeled.",
+    "images": [
+      {
+        "alt_text": "Draki Legion Rogue Helm",
+        "src": "/images/icon-72.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3436
+      }
+    ]
+  },
+  {
+    "id": 2456,
+    "name": "Gigantic Axe (+4)",
+    "name_clean": "gigantic axe",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 164",
+      "Effective Range : 1.5",
+      "Weight : 12 Max Durability : 15000",
+      "Lighting Damage : 117",
+      "Dexterity Bonus : 11",
+      "MP Bonus : 302 HP Bonus : 302",
+      "Resistance to Flame: 18",
+      "Resistance to Glacier: 18",
+      "Resistance to Lighting: 18",
+      "Required Strength: 148"
+    ],
+    "images": [
+      {
+        "alt_text": "Gigantic Axe",
+        "src": "/images/icon-86.png",
+        "width": 42,
+        "height": 41,
+        "file_size": 1880
+      },
+      {
+        "alt_text": "Gigantic Axe",
+        "src": "/images/icon-33.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3230
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Crimson Boots (+16)",
+    "name_clean": "crimson boots",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 3.6 Max Durability : 14250",
+      "Defense Ability : 65",
+      "Health Bonus : 21",
+      "Required Intelligence: 148",
+      "Required Magic Power: 100"
+    ],
+    "images": [
+      {
+        "alt_text": "Crimson Boots",
+        "src": "/images/icon-338.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2558
+      }
+    ]
+  },
+  {
+    "id": 3456,
+    "name": "Red Dragon Necklace (+1)",
+    "name_clean": "red dragon necklace",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 2",
+      "Intelligence Bonus : 15",
+      "MP Bonus : 150",
+      "Resistance to Flame: 55"
+    ],
+    "images": [
+      {
+        "alt_text": "Red Dragon Necklace",
+        "src": "/images/icon-354.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3538
+      }
+    ]
+  },
+  {
+    "id": 8869,
+    "name": "Holy Knight Assassine Helmet (+16)",
+    "name_clean": "holy knight assassine helmet",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 7.3 Max Durability : 20437",
+      "Defense Ability : 137",
+      "Dexterity Bonus : 21",
+      "Required Dexterity: 204",
+      "Required Health: 90",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Assassine Helmet",
+        "src": "/images/icon-178.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3174
+      }
+    ]
+  },
+  {
+    "id": 11602,
+    "name": "Rosetta Mage Pants (+10)",
+    "name_clean": "rosetta mage pants",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 8.2 Max Durability : 18312",
+      "Defense Ability : 150",
+      "Health Bonus : 24",
+      "Required Intelligence: 156",
+      "Required Magic Power: 142",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Mage Pants",
+        "src": "/images/icon-141.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3444
+      }
+    ]
+  },
+  {
+    "id": 13398,
+    "name": "Lightning Garges Staff (+18)",
+    "name_clean": "lightning garges staff",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 169",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 15000",
+      "Glacier Damage : 53",
+      "Lighting Damage : 73",
+      "Intelligence Bonus : 29",
+      "Resistance to Lighting: 39",
+      "Required Magic Power: 147",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: If enemy is healed he loses 2k HP instead  This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Lightning Garges Staff",
+        "src": "/images/icon-191.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4455
+      }
+    ]
+  },
+  {
+    "id": 9380,
+    "name": "Holy Knight Portu Pads (+10)",
+    "name_clean": "holy knight portu pads",
+    "class": "Kurian",
+    "category": "Normal",
+    "features": [
+      "Weight : 10.1 Max Durability : 26125",
+      "Defense Ability : 214",
+      "Strength Bonus : 24",
+      "Required Strength: 167",
+      "Required Magic Power: 110",
+      "Required Health: 92",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Portu Pads",
+        "src": "/images/icon-309.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3285
+      }
+    ]
+  },
+  {
+    "id": 9670,
+    "name": "Kodeks Gigas (+6)",
+    "name_clean": "kodeks gigas",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 114",
+      "Effective Range : 1",
+      "Weight : 3 Max Durability : 13000",
+      "Flame Damage: 48",
+      "Required Intelligence: 160",
+      "Required Magic Power: 126",
+      "Required Level: 75"
+    ],
+    "description": "This is crafted Kodeks Gigas (weaker one) Do not mix up with selfname Kodeks Gigas (ByNoGame's Fire/Ice/Lightning Kodeks Gigas)",
+    "images": [
+      {
+        "alt_text": "Kodeks Gigas",
+        "src": "/images/icon-339.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 5114
+      }
+    ]
+  },
+  {
+    "id": 8937,
+    "name": "Holy Knight Mage Boots (+1)",
+    "name_clean": "holy knight mage boots",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 4.6 Max Durability : 9312",
+      "Defense Ability : 68",
+      "Health Bonus : 2",
+      "Required Intelligence: 148",
+      "Required Magic Power: 120",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Mage Boots",
+        "src": "/images/icon-189.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3046
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Complete Helmet (+5)",
+    "name_clean": "complete helmet",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 5.4 Max Durability : 14812",
+      "Defense Ability : 81",
+      "Health Bonus : 15",
+      "Required Intelligence: 152",
+      "Required Magic Power: 116"
+    ],
+    "images": [
+      {
+        "alt_text": "Complete Helmet",
+        "src": "/images/icon-88.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2495
+      }
+    ]
+  },
+  {
+    "id": 13322,
+    "name": "Fire Garges Staff (+4)",
+    "name_clean": "fire garges staff",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 137",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 14000",
+      "Flame Damage: 63",
+      "Glacier Damage : 43",
+      "Intelligence Bonus : 25",
+      "Resistance to Flame: 35",
+      "Required Magic Power: 139",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: If enemy is healed he loses 2k HP instead  This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Fire Garges Staff",
+        "src": "/images/icon-191.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4455
+      }
+    ]
+  },
+  {
+    "id": 6671,
+    "name": "Priest Full Plate Armor Pauldron (+8)",
+    "name_clean": "priest full plate armor pauldron",
+    "class": "Priest",
+    "category": "Normal",
+    "features": [
+      "Weight : 12.6 Max Durability : 14000",
+      "Defense Ability : 111",
+      "Health Bonus : 15",
+      "Required Intelligence: 158",
+      "Required Strength: 101"
+    ],
+    "images": [
+      {
+        "alt_text": "Priest Full Plate Armor Pauldron",
+        "src": "/images/icon-262.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3558
+      }
+    ]
+  },
+  {
+    "id": 9933,
+    "name": "Draki's Pendant of Strength B.S.A",
+    "name_clean": "draki's pendant of strength b.s.a",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 12",
+      "Defense Ability (Jamadar) : 12",
+      "Defense Ability (Sword) : 12",
+      "Defense Ability (Dagger) : 12",
+      "Defense Ability (Club) : 12",
+      "Defense Ability (Axe) : 12",
+      "Defense Ability (Spear) : 12",
+      "Strength Bonus : 6",
+      "Health Bonus : 20"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Strength B.S.A",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 8147,
+    "name": "Secret Warrior Top (+7)",
+    "name_clean": "secret warrior top",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Weight : 18 Max Durability : 22625",
+      "Defense Ability : 188",
+      "Strength Bonus : 16",
+      "Required Strength: 190",
+      "Required Health: 94",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Warrior Top",
+        "src": "/images/icon-164.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3587
+      }
+    ]
+  },
+  {
+    "id": 3223,
+    "name": "Dark Vane (+18)",
+    "name_clean": "dark vane",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 124",
+      "Effective Range : 1",
+      "Weight : 3 Max Durability : 13000",
+      "Lighting Damage : 117",
+      "Dexterity Bonus : 18",
+      "Required Dexterity: 172"
+    ],
+    "images": [
+      {
+        "alt_text": "Dark Vane",
+        "src": "/images/icon-130.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1792
+      }
+    ]
+  },
+  {
+    "id": 10133,
+    "name": "Draki's Pendant of Magic B.D.C",
+    "name_clean": "draki's pendant of magic b.d.c",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 1",
+      "Defense Ability (Jamadar) : 1",
+      "Defense Ability (Sword) : 1",
+      "Defense Ability (Dagger) : 1",
+      "Defense Ability (Club) : 1",
+      "Defense Ability (Axe) : 1",
+      "Defense Ability (Spear) : 1",
+      "Magic Power Bonus : 6",
+      "Health Bonus : 20"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Magic B.D.C",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 6432,
+    "name": "Lupus Hammer (+6)",
+    "name_clean": "lupus hammer",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 75",
+      "Effective Range : 1",
+      "Weight : 5 Max Durability : 17000",
+      "Intelligence Bonus : 26",
+      "MP Bonus : 188 Health Bonus : 8",
+      "Resistance to Glacier: 55",
+      "Required Intelligence: 98",
+      "Required Strength: 72"
+    ],
+    "images": [
+      {
+        "alt_text": "Lupus Hammer",
+        "src": "/images/icon-214.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2388
+      }
+    ]
+  },
+  {
+    "id": 5688,
+    "name": "Exceptional Impact (+16)",
+    "name_clean": "exceptional impact",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 125",
+      "Effective Range : 1",
+      "Weight : 6 Max Durability : 22000",
+      "Lighting Damage : 95",
+      "Required Strength: 192"
+    ],
+    "images": [
+      {
+        "alt_text": "Exceptional Impact",
+        "src": "/images/icon-270.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2589
+      }
+    ]
+  },
+  {
+    "id": 11314,
+    "name": "Bone Crasher (+1)",
+    "name_clean": "bone crasher",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 67",
+      "Effective Range : 6",
+      "Weight : 1 Max Durability : 14000",
+      "Lighting Damage : 10",
+      "Required Strength: 164"
+    ],
+    "images": [
+      {
+        "alt_text": "Bone Crasher",
+        "src": "/images/icon-236.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2163
+      }
+    ]
+  },
+  {
+    "id": 6650,
+    "name": "Priest Full Plate Armor Helmet (+7)",
+    "name_clean": "priest full plate armor helmet",
+    "class": "Priest",
+    "category": "Normal",
+    "features": [
+      "Weight : 7.5 Max Durability : 13000",
+      "Defense Ability : 65",
+      "Health Bonus : 12",
+      "Required Intelligence: 148",
+      "Required Strength: 95"
+    ],
+    "images": [
+      {
+        "alt_text": "Priest Full Plate Armor Helmet",
+        "src": "/images/icon-218.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3364
+      }
+    ]
+  },
+  {
+    "id": 4421,
+    "name": "Trainer Kate Molok (+1)",
+    "name_clean": "trainer kate molok",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 99",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 11000",
+      "Glacier Damage : 30",
+      "Lighting Damage : 10",
+      "Intelligence Bonus : 12",
+      "Resistance to Glacier: 22",
+      "Required Magic Power: 115",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Transform enemy into Kaul so he can only run and use potions. Enemy's defense is increased by 300",
+    "images": [
+      {
+        "alt_text": "Trainer Kate Molok",
+        "src": "/images/icon-228.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1719
+      }
+    ]
+  },
+  {
+    "id": 4817,
+    "name": "Scorching Staff (+15)",
+    "name_clean": "scorching staff",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 143",
+      "Effective Range : 1",
+      "Weight : 4 Max Durability : 14000",
+      "Defense Ability (Dagger) : 11",
+      "Flame Damage: 75",
+      "Health Bonus : 9",
+      "Required Intelligence: 112",
+      "Required Magic Power: 118"
+    ],
+    "images": [
+      {
+        "alt_text": "Scorching Staff",
+        "src": "/images/icon-114.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3127
+      }
+    ]
+  },
+  {
+    "id": 9920,
+    "name": "Draki's Pendant of Strength D.B.A",
+    "name_clean": "draki's pendant of strength d.b.a",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 6",
+      "Defense Ability (Jamadar) : 6",
+      "Defense Ability (Sword) : 6",
+      "Defense Ability (Dagger) : 6",
+      "Defense Ability (Club) : 6",
+      "Defense Ability (Axe) : 6",
+      "Defense Ability (Spear) : 6",
+      "Strength Bonus : 1",
+      "Health Bonus : 10"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Strength D.B.A",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 8365,
+    "name": "Secret Priest Gauntlets (+8)",
+    "name_clean": "secret priest gauntlets",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Weight : 4.9 Max Durability : 17937",
+      "Defense Ability : 70",
+      "Health Bonus : 16",
+      "Required Intelligence: 174",
+      "Required Strength: 100",
+      "Required Level: 70"
+    ],
+    "images": [
+      {
+        "alt_text": "Secret Priest Gauntlets",
+        "src": "/images/icon-349.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3186
+      }
+    ]
+  },
+  {
+    "id": 5221,
+    "name": "Weak Dwarf Wirinom (+16)",
+    "name_clean": "weak dwarf wirinom",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 224",
+      "Effective Range : 2",
+      "Weight : 10 Max Durability : 20000",
+      "Lighting Damage : 125",
+      "Strength Bonus : 9",
+      "Required Strength: 211",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: Remove enemy's AC buff and decreases defense by 10% and makes him bigger like he used Bezoar",
+    "images": [
+      {
+        "alt_text": "Weak Dwarf Wirinom",
+        "src": "/images/icon-355.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2688
+      }
+    ]
+  },
+  {
+    "id": 8999,
+    "name": "Holy Knight Mage Helmet (+1)",
+    "name_clean": "holy knight mage helmet",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Weight : 6.4 Max Durability : 9312",
+      "Defense Ability : 86",
+      "Health Bonus : 2",
+      "Required Intelligence: 152",
+      "Required Magic Power: 122",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Mage Helmet",
+        "src": "/images/icon-266.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3796
+      }
+    ]
+  },
+  {
+    "id": 8847,
+    "name": "Holy Knight Assassine Helmet (+4)",
+    "name_clean": "holy knight assassine helmet",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Weight : 7.3 Max Durability : 15437",
+      "Defense Ability : 102",
+      "Dexterity Bonus : 6",
+      "Required Dexterity: 194",
+      "Required Health: 90",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Assassine Helmet",
+        "src": "/images/icon-178.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3174
+      }
+    ]
+  },
+  {
+    "id": 8789,
+    "name": "Holy Knight Assassin Boots (+8)",
+    "name_clean": "holy knight assassin boots",
+    "class": "Rogue",
+    "category": "Normal",
+    "features": [
+      "Weight : 5.2 Max Durability : 19437",
+      "Defense Ability : 90",
+      "Dexterity Bonus : 15",
+      "Required Dexterity: 198",
+      "Required Health: 88",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Holy Knight Assassin Boots",
+        "src": "/images/icon-263.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3211
+      }
+    ]
+  },
+  {
+    "id": 12072,
+    "name": "Hepa's Harpoon (+6)",
+    "name_clean": "hepa's harpoon",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 119",
+      "Effective Range : 2",
+      "Weight : 6.5 Max Durability : 14000",
+      "Poison Damage : 81",
+      "Required Strength: 198"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Harpoon",
+        "src": "/images/icon-68.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2291
+      }
+    ]
+  },
+  {
+    "id": 6202,
+    "name": "Hepa's Raptor (+5)",
+    "name_clean": "hepa's raptor",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 192",
+      "Effective Range : 2",
+      "Weight : 15 Max Durability : 15000",
+      "Poison Damage : 80",
+      "Required Strength: 228"
+    ],
+    "images": [
+      {
+        "alt_text": "Hepa's Raptor",
+        "src": "/images/icon-95.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2227
+      }
+    ]
+  },
+  {
+    "id": 11899,
+    "name": "Rosetta Warrior Helmet (+18)",
+    "name_clean": "rosetta warrior helmet",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Weight : 10.1 Max Durability : 25125",
+      "Defense Ability : 148",
+      "Strength Bonus : 22",
+      "Required Strength: 204",
+      "Required Health: 90",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Warrior Helmet",
+        "src": "/images/icon-1.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2126
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Crimson Gloves (+2)",
+    "name_clean": "crimson gloves",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 3.6 Max Durability : 12250",
+      "Defense Ability : 46",
+      "Health Bonus : 12",
+      "Required Intelligence: 144",
+      "Required Magic Power: 94"
+    ],
+    "images": [
+      {
+        "alt_text": "Crimson Gloves",
+        "src": "/images/icon-80.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3169
+      }
+    ]
+  },
+  {
+    "id": 7473,
+    "name": "itemAnaliz's Fire Codex Gigas (+1)",
+    "name_clean": "itemanaliz's fire codex gigas",
+    "class": "Mage",
+    "category": "Normal",
+    "features": [
+      "Attack Power : 104",
+      "Effective Range : 1",
+      "Weight : 3 Max Durability : 8000",
+      "Defense Ability : 2",
+      "Flame Damage: 10",
+      "Required Intelligence: 160",
+      "Required Magic Power: 110",
+      "Required Level: 80"
+    ],
+    "images": [
+      {
+        "alt_text": "itemAnaliz's Fire Codex Gigas",
+        "src": "/images/icon-205.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 5023
+      }
+    ]
+  },
+  {
+    "id": 12704,
+    "name": "Draki Legion Mage Crown (+12)",
+    "name_clean": "draki legion mage crown",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 5.4 Max Durability : 15812",
+      "Defense Ability : 92",
+      "Health Bonus : 19",
+      "Required Intelligence: 152",
+      "Required Magic Power: 118"
+    ],
+    "description": "Full set has set bonus: 5% damage to monsters decrease. Nobody knows if it is debuff or just wrongly labeled.",
+    "images": [
+      {
+        "alt_text": "Draki Legion Mage Crown",
+        "src": "/images/icon-88.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2495
+      }
+    ]
+  },
+  {
+    "id": 2352,
+    "name": "Amulet of Dexterity (+3)",
+    "name_clean": "amulet of dexterity",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 6",
+      "Dexterity Bonus : 30",
+      "MP Bonus : 125"
+    ],
+    "images": [
+      {
+        "alt_text": "Amulet of Dexterity",
+        "src": "/images/icon-253.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2416
+      }
+    ]
+  },
+  {
+    "id": 5563,
+    "name": "Exceptional Shard (+15)",
+    "name_clean": "exceptional shard",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 124",
+      "Effective Range : 1",
+      "Weight : 2 Max Durability : 14000",
+      "Poison Damage : 94",
+      "Required Dexterity: 204"
+    ],
+    "images": [
+      {
+        "alt_text": "Exceptional Shard",
+        "src": "/images/icon-130.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 1792
+      }
+    ]
+  },
+  {
+    "id": 7655,
+    "name": "Pontus's pendant (+5)",
+    "name_clean": "pontus's pendant",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 70",
+      "Defense Ability (Jamadar) : 20",
+      "Defense Ability (Club) : 20",
+      "Defense Ability (Axe) : 20",
+      "Defense Ability (Spear) : 20",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Pontus's pendant",
+        "src": "/images/icon-146.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4971
+      }
+    ]
+  },
+  {
+    "id": 9479,
+    "name": "Krowaz Portu Gauntlets (+6)",
+    "name_clean": "krowaz portu gauntlets",
+    "class": "Kurian",
+    "category": "Reverse",
+    "features": [
+      "Weight : 7.2 Max Durability : 24125",
+      "Defense Ability : 96",
+      "Strength Bonus : 15",
+      "Required Strength: 155",
+      "Required Magic Power: 102",
+      "Required Health: 86",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Krowaz Portu Gauntlets",
+        "src": "/images/icon-183.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2387
+      }
+    ]
+  },
+  {
+    "id": 1714,
+    "name": "Krowaz Mage Pants (+20)",
+    "name_clean": "krowaz mage pants",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 8.2 Max Durability : 17312",
+      "Defense Ability : 160",
+      "Health Bonus : 23",
+      "Required Intelligence: 156",
+      "Required Magic Power: 140",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Krowaz Mage Pants",
+        "src": "/images/icon-318.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2442
+      }
+    ]
+  },
+  {
+    "id": 10402,
+    "name": "Draki's Pendant of Philosopher A.A.B",
+    "name_clean": "draki's pendant of philosopher a.a.b",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Defense Ability : 7",
+      "Defense Ability (Arrow) : 9",
+      "Defense Ability (Jamadar) : 9",
+      "Defense Ability (Sword) : 9",
+      "Defense Ability (Dagger) : 9",
+      "Defense Ability (Club) : 9",
+      "Defense Ability (Axe) : 9",
+      "Defense Ability (Spear) : 9",
+      "Intelligence Bonus : 11",
+      "Magic Power Bonus : 9"
+    ],
+    "images": [
+      {
+        "alt_text": "Draki's Pendant of Philosopher A.A.B",
+        "src": "/images/icon-358.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4055
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Crimson Gloves (+16)",
+    "name_clean": "crimson gloves",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 3.6 Max Durability : 14250",
+      "Defense Ability : 65",
+      "Health Bonus : 21",
+      "Required Intelligence: 144",
+      "Required Magic Power: 98"
+    ],
+    "images": [
+      {
+        "alt_text": "Crimson Gloves",
+        "src": "/images/icon-80.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3169
+      }
+    ]
+  },
+  {
+    "id": 6857,
+    "name": "Dragon Scale Armor Top (+10)",
+    "name_clean": "dragon scale armor top",
+    "class": "Warrior",
+    "category": "Normal",
+    "features": [
+      "Weight : 18 Max Durability : 24625",
+      "Defense Ability : 217",
+      "Strength Bonus : 24",
+      "Required Strength: 194",
+      "Required Health: 94"
+    ],
+    "images": [
+      {
+        "alt_text": "Dragon Scale Armor Top",
+        "src": "/images/icon-115.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4176
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Crimson Helmet (+8)",
+    "name_clean": "crimson helmet",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 5.4 Max Durability : 13250",
+      "Defense Ability : 80",
+      "Health Bonus : 16",
+      "Required Intelligence: 152",
+      "Required Magic Power: 100"
+    ],
+    "images": [
+      {
+        "alt_text": "Crimson Helmet",
+        "src": "/images/icon-25.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3186
+      }
+    ]
+  },
+  {
+    "id": 1455,
+    "name": "Krowaz Assassin Boots (+9)",
+    "name_clean": "krowaz assassin boots",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 5.2 Max Durability : 19437",
+      "Defense Ability : 85",
+      "Dexterity Bonus : 17",
+      "Required Dexterity: 198",
+      "Required Health: 88",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Krowaz Assassin Boots",
+        "src": "/images/icon-37.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2340
+      }
+    ]
+  },
+  {
+    "id": 6779,
+    "name": "Dragon Scale Gauntlet (+15)",
+    "name_clean": "dragon scale gauntlet",
+    "class": "Warrior",
+    "category": "Reverse",
+    "features": [
+      "Weight : 7.2 Max Durability : 23625",
+      "Defense Ability : 92",
+      "Strength Bonus : 21",
+      "Required Strength: 176",
+      "Required Health: 86"
+    ],
+    "images": [
+      {
+        "alt_text": "Dragon Scale Gauntlet",
+        "src": "/images/icon-188.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3229
+      }
+    ]
+  },
+  {
+    "id": 12742,
+    "name": "Draki Legion Mage Leggings (+19)",
+    "name_clean": "draki legion mage leggings",
+    "class": "Mage",
+    "category": "Reverse",
+    "features": [
+      "Weight : 7.2 Max Durability : 15812",
+      "Defense Ability : 136",
+      "Health Bonus : 23",
+      "Required Intelligence: 156",
+      "Required Magic Power: 120"
+    ],
+    "description": "Full set has set bonus: 5% damage to monsters decrease. Nobody knows if it is debuff or just wrongly labeled.",
+    "images": [
+      {
+        "alt_text": "Draki Legion Mage Leggings",
+        "src": "/images/icon-226.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3185
+      }
+    ]
+  },
+  {
+    "id": 11450,
+    "name": "Rosetta Assassin Helmet (+3)",
+    "name_clean": "rosetta assassin helmet",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Weight : 7.3 Max Durability : 18437",
+      "Defense Ability : 96",
+      "Dexterity Bonus : 13",
+      "Required Dexterity: 200",
+      "Required Health: 90",
+      "Required Level: 75"
+    ],
+    "description": "This armor is available only at USKO client!",
+    "images": [
+      {
+        "alt_text": "Rosetta Assassin Helmet",
+        "src": "/images/icon-98.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2471
+      }
+    ]
+  },
+  {
+    "id": 12918,
+    "name": "Draki Legion Priest Coat (+9)",
+    "name_clean": "draki legion priest coat",
+    "class": "Priest",
+    "category": "Reverse",
+    "features": [
+      "Weight : 12.6 Max Durability : 17937",
+      "Defense Ability : 162",
+      "Health Bonus : 17",
+      "Required Intelligence: 190",
+      "Required Strength: 108"
+    ],
+    "description": "Full set has set bonus: 5% damage to monsters decrease. Nobody knows if it is debuff or just wrongly labeled.",
+    "images": [
+      {
+        "alt_text": "Draki Legion Priest Coat",
+        "src": "/images/icon-156.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 3620
+      }
+    ]
+  },
+  {
+    "id": 9508,
+    "name": "Krowaz Portu Helmet (+4)",
+    "name_clean": "krowaz portu helmet",
+    "class": "Kurian",
+    "category": "Reverse",
+    "features": [
+      "Weight : 10.1 Max Durability : 23125",
+      "Defense Ability : 131",
+      "Strength Bonus : 14",
+      "Required Strength: 159",
+      "Required Magic Power: 103",
+      "Required Health: 90",
+      "Required Level: 75"
+    ],
+    "images": [
+      {
+        "alt_text": "Krowaz Portu Helmet",
+        "src": "/images/icon-282.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2248
+      }
+    ]
+  },
+  {
+    "id": 2994,
+    "name": "Fire Rain Windforce (+16)",
+    "name_clean": "fire rain windforce",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 161",
+      "Effective Range : 40",
+      "Weight : 4 Max Durability : 14000",
+      "Flame Damage: 111",
+      "Strength Bonus : 15",
+      "Dexterity Bonus : 17",
+      "Required Dexterity: 173",
+      "Required Level: 70"
+    ],
+    "description": "Curse effect from +7: If effect is triggered then all enemies around are injured like by Nova for several hundreds of life",
+    "images": [
+      {
+        "alt_text": "Fire Rain Windforce",
+        "src": "/images/icon-306.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 2117
+      }
+    ]
+  },
+  {
+    "id": 12986,
+    "name": "Double Dragon Claw Jamadar (+14)",
+    "name_clean": "double dragon claw jamadar",
+    "class": "Rogue",
+    "category": "Reverse",
+    "features": [
+      "Attack Power : 125",
+      "Effective Range : 1.5",
+      "Weight : 2 Max Durability : 18000",
+      "Poison Damage : 129",
+      "Required Dexterity: 212",
+      "Required Level: 80"
+    ],
+    "description": "This item is available in USKO only",
+    "images": [
+      {
+        "alt_text": "Double Dragon Claw Jamadar",
+        "src": "/images/icon-100.png",
+        "width": 45,
+        "height": 45,
+        "file_size": 4296
+      }
+    ]
+  }
+]

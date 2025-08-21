@@ -1,0 +1,299 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "username": "KnightWarrior",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Bu item olmasa çorapla boss kesmeye çalışırdım.",
+            "timeAgo": "2 saat önce",
+            "likes": 24,
+            "dislikes": 3,
+            "replies": [
+                {
+                    "id": 101,
+                    "username": "Player101",
+                    "avatar": "/images/analysis/user1.png",
+                    "content": "Bunu takınca anında +10 karizma geliyor, NPC'ler bile selam veriyor.",
+                    "timeAgo": "2 saat önce",
+                    "likes": 5,
+                    "dislikes": 0
+                },
+                {
+                    "id": 102,
+                    "username": "çılgın_cocuq",
+                    "avatar": "/images/analysis/user2.png",
+                    "content": "Arena'da bunu görünce rakipler 'ben lavaboya gidiyorum' deyip çıkıyor.",
+                    "timeAgo": "4 saat önce",
+                    "likes": 10,
+                    "dislikes": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "username": "DragonSlayer",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Bunu takınca anında +10 karizma geliyor, NPC'ler bile selam veriyor.",
+            "timeAgo": "5 saat önce",
+            "likes": 18,
+            "dislikes": 2,
+            "replies": []
+        },
+        {
+            "id": 3,
+            "username": "PvPKing",
+            "avatar": "/images/analysis/user2.png",
+            "content": "Arena'da bunu görünce rakipler 'ben lavaboya gidiyorum' deyip çıkıyor.",
+            "timeAgo": "1 gün önce",
+            "likes": 31,
+            "dislikes": 5,
+            "replies": [
+                {
+                    "id": 301,
+                    "username": "PvpQueen",
+                    "avatar": "/images/analysis/user1.png",
+                    "content": "Görseli o kadar güzel ki, moblar bile poz veriyor.",
+                    "timeAgo": "2 saat önce",
+                    "likes": 5,
+                    "dislikes": 0
+                },
+                {
+                    "id": 302,
+                    "username": "WhiteQueen_king",
+                    "avatar": "/images/analysis/user2.png",
+                    "content": "Guild savaşında bunu takan arkadaşımız hâlâ loot peşinde koşuyor, savaş bitti haberimiz yok.",
+                    "timeAgo": "4 saat önce",
+                    "likes": 10,
+                    "dislikes": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "username": "ItemCollector",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Görseli o kadar güzel ki, moblar bile poz veriyor.",
+            "timeAgo": "3 gün önce",
+            "likes": 8,
+            "dislikes": 1,
+            "replies": []
+        },
+        {
+            "id": 5,
+            "username": "GuildMaster",
+            "avatar": "/images/analysis/user2.png",
+            "content": "Guild savaşında bunu takan arkadaşımız hâlâ loot peşinde koşuyor, savaş bitti haberimiz yok.",
+            "timeAgo": "1 hafta önce",
+            "likes": 42,
+            "dislikes": 7,
+            "replies": [
+                {
+                    "id": 501,
+                    "username": "NoobSlayerTR",
+                    "avatar": "/images/analysis/user1.png",
+                    "content": "Yeni başladım ama bu item sayesinde köyde bana 'usta' diyorlar.",
+                    "timeAgo": "2 saat önce",
+                    "likes": 5,
+                    "dislikes": 0
+                },
+                {
+                    "id": 502,
+                    "username": "ÇaycıOrc",
+                    "avatar": "/images/analysis/user2.png",
+                    "content": "5 yıldır oynuyorum, bu item yüzünden hâlâ gerçek hayatta bankacıyım.",
+                    "timeAgo": "4 saat önce",
+                    "likes": 10,
+                    "dislikes": 1
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "username": "NewbiePlayer",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Yeni başladım ama bu item sayesinde köyde bana 'usta' diyorlar.",
+            "timeAgo": "2 hafta önce",
+            "likes": 15,
+            "dislikes": 0,
+            "replies": []
+        },
+        {
+            "id": 7,
+            "username": "VeteranKnight",
+            "avatar": "/images/analysis/user2.png",
+            "content": "5 yıldır oynuyorum, bu item yüzünden hâlâ gerçek hayatta bankacıyım.",
+            "timeAgo": "1 ay önce",
+            "likes": 67,
+            "dislikes": 12,
+            "replies": [
+                {
+                    "id": 701,
+                    "username": "KebabDestroyer",
+                    "avatar": "/images/analysis/user1.png",
+                    "content": "Quest'lerde bunu kullanınca, görevler 'tamamlandı' diye kendini işaretliyor.",
+                    "timeAgo": "2 saat önce",
+                    "likes": 5,
+                    "dislikes": 0
+                },
+                {
+                    "id": 702,
+                    "username": "RespawnBey",
+                    "avatar": "/images/analysis/user2.png",
+                    "content": "Bunu takınca karakterim 10 cm uzadı, keşke gerçek hayatta da işe yarasa.",
+                    "timeAgo": "4 saat önce",
+                    "likes": 10,
+                    "dislikes": 1
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "username": "SpeedRunner",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Quest'lerde bunu kullanınca, görevler 'tamamlandı' diye kendini işaretliyor.",
+            "timeAgo": "1 ay önce",
+            "likes": 23,
+            "dislikes": 4,
+            "replies": [
+                {
+                    "id": 801,
+                    "username": "XPÇiftçisi",
+                    "avatar": "/images/analysis/user1.png",
+                    "content": "Bunu takınca karakterim 10 cm uzadı, keşke gerçek hayatta da işe yarasa.",
+                    "timeAgo": "2 saat önce",
+                    "likes": 5,
+                    "dislikes": 0
+                },
+                {
+                    "id": 802,
+                    "username": "DungeonKedicik",
+                    "avatar": "/images/analysis/user2.png",
+                    "content": "Boss keserken bunu takınca loot %50 daha parlak geliyor gibi.",
+                    "timeAgo": "4 saat önce",
+                    "likes": 10,
+                    "dislikes": 1
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "username": "LagSever",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Boss keserken mouse dondu, yine de kazandık.",
+            "timeAgo": "3 saat önce",
+            "likes": 21,
+            "dislikes": 2,
+            "replies": []
+        },
+        {
+            "id": 10,
+            "username": "ÇoraplıSavaşçı",
+            "avatar": "/images/analysis/user2.png",
+            "content": "Bu item olmasa terlikle PK yapacaktım.",
+            "timeAgo": "7 saat önce",
+            "likes": 14,
+            "dislikes": 1,
+            "replies": []
+        },
+        {
+            "id": 11,
+            "username": "DisconnectMaster",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Tam boss düşerken düştüm, hayatımın özeti.",
+            "timeAgo": "1 gün önce",
+            "likes": 33,
+            "dislikes": 4,
+            "replies": []
+        },
+        {
+            "id": 12,
+            "username": "QuestKaçakçısı",
+            "avatar": "/images/analysis/user2.png",
+            "content": "Görevi yapmadan teslim ettim, bu item uğurlu.",
+            "timeAgo": "2 gün önce",
+            "likes": 19,
+            "dislikes": 0,
+            "replies": []
+        },
+        {
+            "id": 13,
+            "username": "PKPadişahı",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Bunu görünce rakipler saygı duruşuna geçti.",
+            "timeAgo": "5 saat önce",
+            "likes": 27,
+            "dislikes": 3,
+            "replies": []
+        },
+        {
+            "id": 14,
+            "username": "MageTeyze",
+            "avatar": "/images/analysis/user2.png",
+            "content": "Bu itemi takınca yemek pişirme yeteneğim +5 oldu.",
+            "timeAgo": "9 saat önce",
+            "likes": 22,
+            "dislikes": 1,
+            "replies": []
+        },
+        {
+            "id": 15,
+            "username": "AltinPeşinde",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Sadece görünce bile para kazanıyormuş gibi hissediyorum.",
+            "timeAgo": "12 saat önce",
+            "likes": 16,
+            "dislikes": 2,
+            "replies": []
+        },
+        {
+            "id": 16,
+            "username": "PotionAbuser",
+            "avatar": "/images/analysis/user2.png",
+            "content": "İçine mana basınca hızlanıyor sanırım, placebo olabilir.",
+            "timeAgo": "4 saat önce",
+            "likes": 20,
+            "dislikes": 0,
+            "replies": []
+        },
+        {
+            "id": 17,
+            "username": "LagdanÖlen",
+            "avatar": "/images/analysis/user1.png",
+            "content": "PK sırasında bu itemi görünce donup kaldım, lag değil heyecan.",
+            "timeAgo": "3 gün önce",
+            "likes": 28,
+            "dislikes": 5,
+            "replies": []
+        },
+        {
+            "id": 18,
+            "username": "KoboldDayı",
+            "avatar": "/images/analysis/user2.png",
+            "content": "Köyde bu itemi görünce düğün davetiye çıkardılar.",
+            "timeAgo": "8 saat önce",
+            "likes": 24,
+            "dislikes": 1,
+            "replies": []
+        },
+        {
+            "id": 19,
+            "username": "BossGörünceKaçan",
+            "avatar": "/images/analysis/user1.png",
+            "content": "Bunu takıp boss'a girmem, hayatım tehlikede.",
+            "timeAgo": "6 saat önce",
+            "likes": 18,
+            "dislikes": 4,
+            "replies": []
+        },
+        {
+            "id": 20,
+            "username": "MarketBörü",
+            "avatar": "/images/analysis/user2.png",
+            "content": "Pazara koydum, fiyat soran herkes ağladı.",
+            "timeAgo": "5 gün önce",
+            "likes": 21,
+            "dislikes": 2,
+            "replies": []
+        }
+    ]
+}

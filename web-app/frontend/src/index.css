@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --background-primary: #151320;
+    --background-secondary: #151320;
+    --text-primary: #e2e8f0;
+}
+
+body {
+    background: var(--background-primary);
+    min-height: 100vh;
+    color: var(--text-primary);
+    background-attachment: fixed;
+}
+
+/* Özel scroll bar tasarımı */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #151320;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #22212c;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #2d2c3a;
+}
+
+/* Metin seçimi rengi */
+::selection {
+    background: #22212c;
+    color: #fdb377;
+}
+
+/* Kartlar için arka plan deseni */
+.item-card-pattern {
+    background: #22212c;
+}
+
+/* Animasyonlu buton için özel stil */
+.animatedButton {
+    animation: spin 15s linear infinite;
+    fill: #fdb377;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
