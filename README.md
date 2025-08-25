@@ -6,14 +6,14 @@ Bu proje, **Knight Online** oyunundaki itemlerin veri analizi ve
 görselleştirilmesini içermektedir.
 
 -   **Veri Toplama:** Item verileri, Web Scraping yöntemi ile
-    **Kopazar.com** üzerinden elde edilmiştir.\
+    **Kopazar.com** üzerinden elde edilmiştir.
 -   **Notebook Analizi:** `notebooks/` klasöründe yer alan Jupyter
     Notebook dosyası, analiz sürecini içermektedir. Notebook temizlenmiş
-    ve portfolyoya uygun hale getirilmiştir.\
+    ve portfolyoya uygun hale getirilmiştir.
 -   **Web Arayüzü:** Item verileri için kullanıcı dostu bir arayüz
     geliştirilmiştir.
-    -   Frontend: **React**, **TailwindCSS**, **Vite**\
-    -   Görselleştirme: **Recharts**, **Swiper**\
+    -   Frontend: **React**, **TailwindCSS**, **Vite**
+    -   Görselleştirme: **Recharts**, **Swiper**
 -   **Backend:** Başlangıçta PostgreSQL üzerinde çalıştırılmıştır.
     Portfolyo sunumu için statik bir yapıya dönüştürülmüştür.
 
@@ -22,9 +22,9 @@ görselleştirilmesini içermektedir.
 ## Veri
 
 -   `data/` klasöründe **150 item** içeren örnek bir JSON dosyası
-    bulunmaktadır.\
+    bulunmaktadır.
 -   Bu JSON dosyası, local veritabanından rastgele seçilen itemler
-    kullanılarak oluşturulmuştur.\
+    kullanılarak oluşturulmuştur.
 -   Frontend, bu JSON verisi üzerine inşa edilmiştir.
 
 ------------------------------------------------------------------------
@@ -71,7 +71,7 @@ yarn build
 
 -   Notebook sürecinde farklı denemeler yapılmış, bu nedenle bazı küçük
     tutarsızlıklar görülebilir. Ancak genel akış temizlenmiş ve tekrar
-    çalıştırılabilir hale getirilmiştir.\
+    çalıştırılabilir hale getirilmiştir.
 -   Çalışma sırasında öğrenme sürecine yönelik hatalar ve çözümler de
     doğal akışta yer almaktadır.
 
@@ -81,7 +81,7 @@ yarn build
 
 -   **Python:** pandas, numpy, matplotlib, seaborn, SQLAlchemy\
 -   **JavaScript:** React, React Router, Recharts, Swiper\
--   **CSS:** TailwindCSS\
+-   **CSS:** TailwindCSS
 -   **Build Tool:** Vite
 
 ------------------------------------------------------------------------
